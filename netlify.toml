@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/"
+  to = "https://github.com/eai04191/maid-preset"
+  status = 302
+  force = false
